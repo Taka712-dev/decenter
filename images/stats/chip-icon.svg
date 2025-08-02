@@ -1,0 +1,32 @@
+<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5855_4330)">
+<path d="M0.5 8.04004C0.5 3.62176 4.08172 0.0400391 8.5 0.0400391H36.5C40.9183 0.0400391 44.5 3.62176 44.5 8.04004V36.04C44.5 40.4583 40.9183 44.04 36.5 44.04H8.5C4.08172 44.04 0.5 40.4583 0.5 36.04V8.04004Z" fill="#292929"/>
+<g clip-path="url(#clip1_5855_4330)">
+<rect x="0.5" y="-0.209961" width="44" height="44" rx="8" fill="#FF7D4B"/>
+<g style="mix-blend-mode:overlay" opacity="0.8" filter="url(#filter0_f_5855_4330)">
+<ellipse cx="22" cy="9.29004" rx="9.5" ry="28.5" transform="rotate(90 22 9.29004)" fill="white"/>
+</g>
+</g>
+<rect x="0.75" y="0.0400391" width="43.5" height="43.5" rx="7.75" stroke="url(#paint0_linear_5855_4330)" stroke-width="0.5"/>
+<path d="M18 18.04H26V26.04H18V18.04Z" fill="#0E0E0E"/>
+<path d="M31.6 14.84C31.6 13.5164 30.5236 12.44 29.2 12.44H26.8V10.04H24.4V12.44H19.6V10.04H17.2V12.44H14.8C13.4764 12.44 12.4 13.5164 12.4 14.84V17.24H10V19.64H12.4V24.44H10V26.84H12.4V29.24C12.4 30.5636 13.4764 31.64 14.8 31.64H17.2V34.04H19.6V31.64H24.4V34.04H26.8V31.64H29.2C30.5236 31.64 31.6 30.5636 31.6 29.24V26.84H34V24.44H31.6V19.64H34V17.24H31.6V14.84ZM14.8 29.24V14.84H29.2L29.2024 29.24H14.8Z" fill="#0E0E0E"/>
+</g>
+<defs>
+<filter id="filter0_f_5855_4330" x="-26.5" y="-20.21" width="97" height="59" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_5855_4330"/>
+</filter>
+<linearGradient id="paint0_linear_5855_4330" x1="44.5" y1="21.79" x2="0.5" y2="21.79" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A3A3A3" stop-opacity="0.5"/>
+<stop offset="0.525" stop-color="#A3A3A3" stop-opacity="0.1"/>
+<stop offset="1" stop-color="#A3A3A3" stop-opacity="0.5"/>
+</linearGradient>
+<clipPath id="clip0_5855_4330">
+<path d="M0.5 8.04004C0.5 3.62176 4.08172 0.0400391 8.5 0.0400391H36.5C40.9183 0.0400391 44.5 3.62176 44.5 8.04004V36.04C44.5 40.4583 40.9183 44.04 36.5 44.04H8.5C4.08172 44.04 0.5 40.4583 0.5 36.04V8.04004Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_5855_4330">
+<rect x="0.5" y="-0.209961" width="44" height="44" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,43 @@
+<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5855_5588)">
+<g clip-path="url(#clip1_5855_5588)">
+<g clip-path="url(#clip2_5855_5588)">
+<rect x="0.916931" y="0.347656" width="44" height="44" rx="8" fill="#292929"/>
+<g style="mix-blend-mode:overlay" opacity="0.8" filter="url(#filter0_f_5855_5588)">
+<ellipse cx="22.4169" cy="9.84766" rx="9.5" ry="28.5" transform="rotate(90 22.4169 9.84766)" fill="white"/>
+</g>
+</g>
+<rect x="1.16693" y="0.597656" width="43.5" height="43.5" rx="7.75" stroke="url(#paint0_linear_5855_5588)" stroke-width="0.5"/>
+<mask id="mask0_5855_5588" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="8" y="8" width="29" height="29">
+<path d="M36.9169 8.59766H8.91693V36.5977H36.9169V8.59766Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_5855_5588)">
+<path opacity="0.2" d="M22.4169 23.0127V33.249L13.1122 28.1572C13.0532 28.1249 13.0038 28.0771 12.9697 28.0195C12.9525 27.9907 12.9395 27.9598 12.9306 27.9277L12.9169 27.8291V17.8125L22.4169 23.0127Z" stroke="#FFFFF8" stroke-opacity="0.8"/>
+<path d="M12.4951 17.0107L22.9186 22.7157L33.342 17.0107" stroke="#FFFFF8" stroke-opacity="0.8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.3369 11.3319L32.9619 16.6016C33.0993 16.6768 33.2141 16.7875 33.2941 16.9222C33.3741 17.0569 33.4165 17.2106 33.4169 17.3673V27.8279C33.4165 27.9845 33.3741 28.1382 33.2941 28.2729C33.2141 28.4076 33.0993 28.5183 32.9619 28.5935L23.3369 33.8632C23.2081 33.9337 23.0637 33.9706 22.9169 33.9706C22.7701 33.9706 22.6257 33.9337 22.4969 33.8632L12.8719 28.5935C12.7345 28.5183 12.6197 28.4076 12.5397 28.2729C12.4597 28.1382 12.4173 27.9845 12.4169 27.8279V17.3673C12.4173 17.2106 12.4597 17.0569 12.5397 16.9222C12.6197 16.7875 12.7345 16.6768 12.8719 16.6016L22.4969 11.3319C22.6257 11.2615 22.7701 11.2246 22.9169 11.2246C23.0637 11.2246 23.2081 11.2615 23.3369 11.3319Z" stroke="#FFFFF8" stroke-opacity="0.8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.9169 22.7167V33.9725" stroke="#FFFFF8" stroke-opacity="0.8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_5855_5588" x="-26.0831" y="-19.6523" width="97" height="59" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_5855_5588"/>
+</filter>
+<linearGradient id="paint0_linear_5855_5588" x1="44.9169" y1="22.3477" x2="0.916931" y2="22.3477" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A3A3A3" stop-opacity="0.5"/>
+<stop offset="0.525" stop-color="#A3A3A3" stop-opacity="0.1"/>
+<stop offset="1" stop-color="#A3A3A3" stop-opacity="0.5"/>
+</linearGradient>
+<clipPath id="clip0_5855_5588">
+<rect width="44" height="44" fill="white" transform="translate(0.916931 0.597656)"/>
+</clipPath>
+<clipPath id="clip1_5855_5588">
+<rect width="44" height="44" fill="white" transform="translate(0.916931 0.597656)"/>
+</clipPath>
+<clipPath id="clip2_5855_5588">
+<rect x="0.916931" y="0.347656" width="44" height="44" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>
