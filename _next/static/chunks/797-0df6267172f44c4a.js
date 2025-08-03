@@ -1240,7 +1240,7 @@
                             children: "The first Human-Centered AI Cloud powered by Hybrid RWA Data Centers and DePIN Edge"
                         }), (0, r.jsx)("p", {
                             className: "font-mono text-center text-sm sm:[18px] md:text-lg lg:text-xl leading-tight md:leading-[1.125] tracking-[-5%] text-transparent bg-clip-text bg-gradient-to-b from-white to-[#494949] mb-4 md:mb-8 px-2",
-                            children: "0xComingSoon"
+                            children: "0xA55dE58f33A2C3b3d8b7c136Ebb0cF1FB590a967"
                         })]
                     }), (0, r.jsxs)("div", {
                         className: "absolute left-0 right-0 bottom-[20px] z-20 w-full flex flex-col items-center pb-6",
@@ -1342,11 +1342,11 @@
                     }, {
                         id: "blog3",
                         label: "Chart",
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon"
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0xA55dE58f33A2C3b3d8b7c136Ebb0cF1FB590a967"
                     }, {
                         id: "blog4",
                         label: "Buy $DECAI",
-                        href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon"
+                        href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xA55dE58f33A2C3b3d8b7c136Ebb0cF1FB590a967"
                     }]
                 }],
                 _ = n.memo(() => {
