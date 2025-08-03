@@ -1333,11 +1333,11 @@
                     links: [{
                         id: "blog1",
                         label: "X",
-                        href: "https://x.com/DeCenter_AIDC"
+                        href: "https://x.com/decenter_eth"
                     }, {
                         id: "blog2",
                         label: "Telegram",
-                        href: "https://t.me/DeCenter_Group"
+                        href: "https://t.me/decenter_eth"
                     }, {
                         id: "blog3",
                         label: "Chart",
