@@ -1345,7 +1345,7 @@
                         href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon"
                     }, {
                         id: "blog4",
-                        label: "Buy $DECENTER",
+                        label: "Buy $DECAI",
                         href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon"
                     }]
                 }],
