@@ -82,7 +82,8 @@
                                     }, e.name))
                                 }), (0, r.jsxs)("div", {
                                     className: "flex items-center gap-4",
-                                    children: [(0, r.jsx)("button", {
+                                    children: [(0, r.jsx)("a", {
+                                        href: "https://app.decenterai.cloud",
                                         className: "py-2 lg:py-3 px-4 rounded-lg bg-[rgba(30,30,30,0.8)] border border-white/15 text-white font-mono text-sm hover:bg-white/10 transition-colors",
                                         style: {
                                             boxShadow: "inset 0px 0px 20px 0px rgba(255, 255, 255, 0.1)"
