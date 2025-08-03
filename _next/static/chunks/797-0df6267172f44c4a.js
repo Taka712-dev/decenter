@@ -1318,7 +1318,7 @@
                     links: [{
                         id: "pricing1",
                         label: "Docs",
-                        href: "#"
+                        href: "https://docs.decenterai.cloud"
                     }, {
                         id: "pricing2",
                         label: "Blog",
